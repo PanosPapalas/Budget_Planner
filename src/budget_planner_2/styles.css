@@ -1,0 +1,31 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : May 18, 2025, 9:14:38 AM
+    Author     : jack1
+*/
+
+.root-node{
+    -fx-background-color: white;
+}
+
+.calendar-label-box{
+    -fx-background-color: #F2F2F2;
+    -fx-border-color: black;
+    -fx-border-width: 2px;
+    -fx-padding: 10px;
+}
+
+.calendar-label-box .label{
+    -fx-font-family: lato;
+    -fx-font-size: 18px;
+    
+}
+
+.days_Pane{
+    -fx-padding: 10px;
+    -fx-border-color: black;
+    -fx-border-width: 0px 2px 2px 2px;
+}
